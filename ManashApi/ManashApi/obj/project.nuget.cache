@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "n8lvjQ81NsFMm8T3HFp7T86GMHmssIq6Q7eaaFJdK/a+MFyBVr1BYMRjfu34rQFJCRlLmItAD81LMceIDge+sQ==",
+  "dgSpecHash": "7H8zsWr6W3lTXH7SMOVEgqQmhvtiZ04Syo1EUWN0d7QgACP3W+glHN0RmP4TqKs9AKWnJGSwDYfHR5fYyaDU6Q==",
   "success": true,
   "projectFilePath": "C:\\manash\\ManashApi\\ManashApi\\ManashApi.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.11\\microsoft.entityframeworkcore.design.5.0.11.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.11\\microsoft.entityframeworkcore.relational.5.0.11.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.11\\microsoft.entityframeworkcore.sqlserver.5.0.11.nupkg.sha512",
+    "C:\\Users\\selim\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.11\\microsoft.entityframeworkcore.tools.5.0.11.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\selim\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
